@@ -43,7 +43,7 @@ html, body {
 }
 
 #tabs {
-    background-color: #2061A2;
+    background-color: #E27C00;
     float: left;
     margin: 0px 0px 20px 0px;
     padding: 0;
@@ -74,7 +74,7 @@ html, body {
         }
 
             #tabs li a:hover {
-                background: #759FCF;
+                background: #E2A55B;
                 color: #FFFFFF;
             }
 
@@ -108,7 +108,7 @@ html, body {
 }
 
 body {
-    color: #333333;
+    color: #303030;
     font: 13px/1.385 arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
@@ -127,7 +127,7 @@ h1, ul#tabs, h2, h3, h4, h5 {
 }
 
 h1 {
-    background-color: #0A3F69;
+    background-color: #244C94;
     color: #F8F8F8;
     font-size: 24px;
     margin: 0;
@@ -145,23 +145,23 @@ h1:before {
 }
 
 h2 {
-    border-bottom: 4px solid #67B3E3;
-    color: #13679D;
+    border-bottom: 4px solid #E27C00;
+    color: #244C94;
     font-size: 20px;
 }
 
 h3, h4, h5, h6 {
-    color: #1572AE;
+    color: #405E94;
 }
 
 h3 {
-    border-bottom: 1px solid #B5DAF1;
+    border-bottom: 1px solid #617394;
     font-size: 16px;
     margin-left: 25px;
 }
 
 h4 {
-    border-bottom: 1px dotted #C9E3F5;
+    border-bottom: 1px dotted #C4D5F5;
     font-size: 14px;
     margin-left: 60px;
 }
@@ -204,7 +204,7 @@ ul, ol {
 }
 
 dt {
-    color: #1572AE;
+    color: #244C94;
     font-weight: bold;
 }
 
@@ -307,6 +307,7 @@ table {
     border-collapse: collapse;
     margin-right: auto;
     margin-left: auto;
+    margin: 20px 0;
 }
 
     table td {
@@ -324,7 +325,7 @@ th
 {
     border-width: 1px 2px;
     border-color: white;
-    background-color: #2061A2;
+    background-color: #244C94;
     color: white;
 }
 
