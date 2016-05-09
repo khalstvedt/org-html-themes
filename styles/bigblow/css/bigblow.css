@@ -134,6 +134,16 @@ h1 {
     padding: 9px 0px 0px 10px;
 }
 
+h1:before {
+    display: inline-block;
+    content: "";
+    background: url("https://elixiter.com/wordpress/wp-content/themes/Elixiter/img/logo-icon.png");
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
 h2 {
     border-bottom: 4px solid #67B3E3;
     color: #13679D;
